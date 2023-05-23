@@ -1,4 +1,7 @@
 ---
-title: I made this
+layout: home
+limit: 10
+show_excerpts: true
+entries_layout: list
 ---
-Now sure how, but I did.
+
