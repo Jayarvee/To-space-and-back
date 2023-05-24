@@ -1,7 +1,9 @@
 ---
-title: Second post
+title: Merindah
 date: 2023-05-25
 ---
-## I made this! 
-I know it's only ones and zeros but I corralled them.
-*Hee hee*
+Merindah<sup>\*</sup> was the first wombat whose journey I followed from initial rescue to release. She wasn't brought into care as a joey but was rescued after she was found in a storm drain with some terrible injuries. <br>
+<br>
+Her carer Lindy (aka [crazy_wombat_lady](http://instagram.com/crazy_cat_lady) on Instagram) suspects she was still less than a year old when she was orphaned and then attacked by bigger, territorial wombats. <br>
+<br>
+<sup>\*</sup>Merindah is the Gadigal word for *beautiful*.
