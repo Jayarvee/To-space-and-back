@@ -4,3 +4,4 @@ email: jayarvee@duck.com
 description: I like wombats.
 
 theme: minima
+show_excerpts: true
