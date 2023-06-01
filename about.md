@@ -1,1 +1,1 @@
-I love wombats and learning new things.
+I like wombats and learning new things.
